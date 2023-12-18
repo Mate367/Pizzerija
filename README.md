@@ -4,3 +4,5 @@ uwu xd
 nyitólap (index.html)
 étlap (pizza.html)
 itallap (drink.html)
+<br>
+Példa pizzéria : http://pizzamamma.hu/
